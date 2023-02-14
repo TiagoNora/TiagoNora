@@ -11,10 +11,10 @@
 
   
 
-- 🌱 I’m currently learning Ballerina
+- 🌱 Present: I am learning Ballerina
   
 
-- ⚡ Future: I plan to  learn C#
+- ⚡ Future: I plan to learn C#
 
 
 </td><td valign="top" width="50%">
