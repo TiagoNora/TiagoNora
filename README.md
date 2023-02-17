@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Tiago Nora!  
   
 
-<a href="https://github.com/tiagonora" target="_blank">
+<a href="https://github.com/TiagoNora" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/tiago-nora" target="_blank">
