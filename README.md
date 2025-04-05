@@ -11,10 +11,7 @@
 
   
 
-- 🌱 Present: I am learning Ballerina
-  
-
-- ⚡ Future: I plan to learn Quarkus
+- 🌱 Present: I am learning GO
 
 
 </td><td valign="top" width="50%">
